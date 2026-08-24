@@ -1,0 +1,48 @@
+{
+  "reminders": [
+    {
+      "id": "65104e747cb2",
+      "userId": "28145558278209@lid",
+      "chatId": "120363427906144674@g.us",
+      "createdByName": "........",
+      "createdAt": "2026-08-21T01:43:24.413Z",
+      "at": 1787367600000,
+      "message": "aniversário da fern",
+      "status": "sent",
+      "sentAt": "2026-08-22T03:42:10.827Z"
+    },
+    {
+      "id": "84fe8c68988f",
+      "userId": "28145558278209@lid",
+      "chatId": "120363427906144674@g.us",
+      "createdByName": "........",
+      "createdAt": "2026-08-21T01:43:53.405Z",
+      "at": 1787367600000,
+      "message": "dia 23 é aniversário da fern",
+      "status": "sent",
+      "sentAt": "2026-08-22T03:42:11.768Z"
+    },
+    {
+      "id": "e24a3dfa88b0",
+      "userId": "28145558278209@lid",
+      "chatId": "120363427906144674@g.us",
+      "createdByName": "........",
+      "createdAt": "2026-08-21T01:44:11.121Z",
+      "at": 1787367600000,
+      "message": "dia 23 é aniversário da fern\n@all",
+      "status": "sent",
+      "sentAt": "2026-08-22T03:42:12.779Z"
+    },
+    {
+      "id": "a6d0b112f19f",
+      "userId": "28145558278209@lid",
+      "chatId": "120363411463318039@g.us",
+      "createdByName": "........",
+      "createdAt": "2026-08-21T01:44:28.055Z",
+      "at": 1787367600000,
+      "message": "dia 23 é aniversário da fern",
+      "status": "sent",
+      "sentAt": "2026-08-22T03:42:14.517Z"
+    }
+  ]
+}

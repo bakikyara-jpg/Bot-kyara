@@ -1,0 +1,44 @@
+{
+  "mark": {},
+  "createdAt": "2026-08-18T03:11:48.711Z",
+  "groupName": "Os melhores amigos",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "203864968060938@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 1,
+      "pushname": "HEITOR",
+      "firstSeen": "2026-08-18T03:12:09.707Z",
+      "lastActivity": "2026-08-18T03:12:13.095Z"
+    },
+    {
+      "id": "96752929644567@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 1,
+      "pushname": "FÁBIO WILLIANS",
+      "firstSeen": "2026-08-18T03:12:45.749Z",
+      "lastActivity": "2026-08-18T03:14:03.502Z"
+    },
+    {
+      "id": "168561075040376@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "meu legal jaqueta of silv",
+      "firstSeen": "2026-08-18T03:21:59.655Z",
+      "lastActivity": "2026-08-18T03:21:59.659Z"
+    }
+  ]
+}

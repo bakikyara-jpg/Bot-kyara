@@ -1,0 +1,1963 @@
+{
+  "28145558278209@lid_pro": {
+    "userId": "28145558278209@lid_pro",
+    "nome": "........",
+    "apelidos": [],
+    "preferencias": {
+      "assuntos_favoritos": [],
+      "gostos": [],
+      "nao_gostos": [],
+      "hobbies": [],
+      "estilo_conversa": "casual",
+      "usa_emojis": true,
+      "formal": false
+    },
+    "informacoes_pessoais": {
+      "idade": null,
+      "localizacao": null,
+      "profissao": null,
+      "relacionamento": null,
+      "familia": []
+    },
+    "historico_conversa": {
+      "total_mensagens": 25,
+      "primeira_conversa": "2026-08-18T17:06:03.000Z",
+      "ultima_conversa": "2026-08-20T17:33:53.000Z",
+      "frequencia_interacao": "alta",
+      "topicos_recentes": []
+    },
+    "padroes_comportamento": {
+      "horarios_ativos": {
+        "4": 2,
+        "14": 11,
+        "15": 2,
+        "19": 4,
+        "20": 1,
+        "21": 1,
+        "22": 4
+      },
+      "dias_semana_ativos": {
+        "terça-feira": 17,
+        "quarta-feira": 5,
+        "quinta-feira": 3
+      },
+      "humor_comum": "neutro",
+      "tipo_mensagens": {
+        "perguntas": 0,
+        "afirmacoes": 0,
+        "emocoes": 0,
+        "comandos": 0
+      }
+    },
+    "relacionamento_nazuna": {
+      "nivel_intimidade": 1,
+      "apelido_nazuna": null,
+      "memorias_especiais": [],
+      "conversas_marcantes": [],
+      "sentimento": "neutro"
+    },
+    "notas_importantes": [],
+    "ultima_atualizacao": "2026-08-20T17:33:53.000Z"
+  },
+  "28145558278209@lid_humana": {
+    "userId": "28145558278209@lid_humana",
+    "nome": "........",
+    "apelidos": [],
+    "preferencias": {
+      "assuntos_favoritos": [],
+      "gostos": [
+        "[preferencia] gosta de conhecer pessoas novas",
+        "[preferencia] gosta de brincar com nomes e identidades",
+        "[preferencia] gosta de grupos de conversa",
+        "[preferencia] gosta de interagir com o grupo",
+        "[preferencia] gosta de trocar risadas e momentos leves",
+        "[preferencia] gosta de receber boas-vindas",
+        "[preferencia] gosta de testar e brincar com a conversa",
+        "[preferencia] gosta de se apresentar e conhecer novas pessoas",
+        "[preferencia] gosta de fazer piadas e brincar com a conversa",
+        "[preferencia] gosta de iniciar conversas com um oxe",
+        "[preferencia] gosta de desenvolver e trabalhar em projetos de IA",
+        "[preferencia] chama pessoas de maneira errada",
+        "[preferencia] gosta de conversar em grupo",
+        "[preferencia] gosta de fazer perguntas diretas",
+        "[preferencia] gosta de fazer piadas sobre fome",
+        "[preferencia] gosta de falar sobre coisas positivas",
+        "[preferencia] gosta de fazer piadas",
+        "[preferencia] gosta de fazer piadas e rir",
+        "[preferencia] gosta de fazer perguntas sobre a capacidade de entender e diferenciar contatos",
+        "[preferencia] gosta de fazer piadas e rir com figurinhas"
+      ],
+      "nao_gostos": [
+        "não gosta de ser chamada de maneira errada"
+      ],
+      "hobbies": [],
+      "estilo_conversa": "casual",
+      "usa_emojis": true,
+      "formal": false
+    },
+    "informacoes_pessoais": {
+      "idade": null,
+      "localizacao": null,
+      "profissao": null,
+      "relacionamento": null,
+      "familia": []
+    },
+    "historico_conversa": {
+      "total_mensagens": 60,
+      "primeira_conversa": "2026-08-18T23:40:37.000Z",
+      "ultima_conversa": "2026-08-21T21:39:42.000Z",
+      "frequencia_interacao": "muito_alta",
+      "topicos_recentes": []
+    },
+    "padroes_comportamento": {
+      "horarios_ativos": {
+        "0": 1,
+        "9": 4,
+        "10": 5,
+        "11": 5,
+        "12": 5,
+        "13": 10,
+        "14": 3,
+        "18": 1,
+        "20": 1,
+        "21": 19,
+        "22": 6
+      },
+      "dias_semana_ativos": {
+        "terça-feira": 26,
+        "quarta-feira": 4,
+        "quinta-feira": 7,
+        "sexta-feira": 23
+      },
+      "humor_comum": "neutro",
+      "tipo_mensagens": {
+        "perguntas": 0,
+        "afirmacoes": 0,
+        "emocoes": 0,
+        "comandos": 0
+      }
+    },
+    "relacionamento_nazuna": {
+      "nivel_intimidade": 1,
+      "apelido_nazuna": null,
+      "memorias_especiais": [],
+      "conversas_marcantes": [],
+      "sentimento": "neutro"
+    },
+    "notas_importantes": [
+      {
+        "texto": "usuário procura por café",
+        "data": "2026-08-19T01:35:38.000Z",
+        "relevancia": "alta"
+      },
+      {
+        "texto": "usuário gosta de fazer piadas sobre bots",
+        "data": "2026-08-19T13:06:43.000Z",
+        "relevancia": "alta"
+      },
+      {
+        "texto": "pode ter momentos de agressividade ou descontrole",
+        "data": "2026-08-19T14:31:51.000Z",
+        "relevancia": "alta"
+      },
+      {
+        "texto": "usuário pode ter dificuldade em se expressar ou pode estar sendo provocativo",
+        "data": "2026-08-19T17:52:54.000Z",
+        "relevancia": "alta"
+      },
+      {
+        "texto": "usuário tentou usar comando $delete",
+        "data": "2026-08-20T12:06:27.000Z",
+        "relevancia": "alta"
+      },
+      {
+        "texto": "usuário tentou usar comando de promoção",
+        "data": "2026-08-20T15:28:10.000Z",
+        "relevancia": "alta"
+      },
+      {
+        "texto": "usuário tenta mudar o nome da conversa",
+        "data": "2026-08-21T13:38:07.000Z",
+        "relevancia": "alta"
+      },
+      {
+        "texto": "pode ter momentos de agressividade ou descontrole",
+        "data": "2026-08-21T13:39:47.000Z",
+        "relevancia": "alta"
+      },
+      {
+        "texto": "usuário procura por café",
+        "data": "2026-08-21T16:14:20.000Z",
+        "relevancia": "alta"
+      },
+      {
+        "texto": "usuário menciona link diferente",
+        "data": "2026-08-21T16:28:38.000Z",
+        "relevancia": "alta"
+      },
+      {
+        "texto": "usuário pode ter dificuldade em se expressar ou pode estar sendo provocativo",
+        "data": "2026-08-21T21:39:55.000Z",
+        "relevancia": "alta"
+      }
+    ],
+    "ultima_atualizacao": "2026-08-21T21:39:55.000Z"
+  },
+  "28145558278209@lid_nazuna": {
+    "userId": "28145558278209@lid_nazuna",
+    "nome": "........",
+    "apelidos": [],
+    "preferencias": {
+      "assuntos_favoritos": [],
+      "gostos": [
+        "noite"
+      ],
+      "nao_gostos": [],
+      "hobbies": [],
+      "estilo_conversa": "casual",
+      "usa_emojis": true,
+      "formal": false
+    },
+    "informacoes_pessoais": {
+      "idade": null,
+      "localizacao": null,
+      "profissao": null,
+      "relacionamento": null,
+      "familia": []
+    },
+    "historico_conversa": {
+      "total_mensagens": 116,
+      "primeira_conversa": "2026-08-18T23:43:31.000Z",
+      "ultima_conversa": "2026-08-22T00:38:32.000Z",
+      "frequencia_interacao": "muito_alta",
+      "topicos_recentes": []
+    },
+    "padroes_comportamento": {
+      "horarios_ativos": {
+        "11": 12,
+        "12": 31,
+        "13": 10,
+        "14": 5,
+        "15": 3,
+        "16": 11,
+        "20": 31,
+        "21": 11,
+        "22": 2
+      },
+      "dias_semana_ativos": {
+        "terça-feira": 7,
+        "quarta-feira": 4,
+        "sexta-feira": 105
+      },
+      "humor_comum": "neutro",
+      "tipo_mensagens": {
+        "perguntas": 0,
+        "afirmacoes": 0,
+        "emocoes": 0,
+        "comandos": 0
+      }
+    },
+    "relacionamento_nazuna": {
+      "nivel_intimidade": 1,
+      "apelido_nazuna": null,
+      "memorias_especiais": [],
+      "conversas_marcantes": [],
+      "sentimento": "neutro"
+    },
+    "notas_importantes": [
+      {
+        "texto": "usuário disse \"eu te amo\"",
+        "data": "2026-08-18T23:47:45.000Z",
+        "relevancia": "alta"
+      },
+      {
+        "texto": "usuário disse \"dps eu ajeito\"",
+        "data": "2026-08-20T00:46:34.000Z",
+        "relevancia": "alta"
+      },
+      {
+        "texto": "usuário resolveu erros de sintaxe e outros problemas",
+        "data": "2026-08-20T00:48:15.000Z",
+        "relevancia": "alta"
+      }
+    ],
+    "ultima_atualizacao": "2026-08-22T00:38:32.000Z"
+  },
+  "221873749098577@lid_humana": {
+    "userId": "221873749098577@lid_humana",
+    "nome": "Bia",
+    "apelidos": [],
+    "preferencias": {
+      "assuntos_favoritos": [],
+      "gostos": [
+        "[preferencia] gosta de compartilhar experiências",
+        "[preferencia] gosta de falar de forma direta e sem rodeios"
+      ],
+      "nao_gostos": [],
+      "hobbies": [],
+      "estilo_conversa": "casual",
+      "usa_emojis": true,
+      "formal": false
+    },
+    "informacoes_pessoais": {
+      "idade": null,
+      "localizacao": null,
+      "profissao": null,
+      "relacionamento": null,
+      "familia": []
+    },
+    "historico_conversa": {
+      "total_mensagens": 5,
+      "primeira_conversa": "2026-08-19T00:23:28.000Z",
+      "ultima_conversa": "2026-08-20T02:50:42.000Z",
+      "frequencia_interacao": "baixa",
+      "topicos_recentes": []
+    },
+    "padroes_comportamento": {
+      "horarios_ativos": {
+        "21": 2,
+        "23": 3
+      },
+      "dias_semana_ativos": {
+        "terça-feira": 2,
+        "quarta-feira": 3
+      },
+      "humor_comum": "neutro",
+      "tipo_mensagens": {
+        "perguntas": 0,
+        "afirmacoes": 0,
+        "emocoes": 0,
+        "comandos": 0
+      }
+    },
+    "relacionamento_nazuna": {
+      "nivel_intimidade": 1,
+      "apelido_nazuna": null,
+      "memorias_especiais": [],
+      "conversas_marcantes": [],
+      "sentimento": "neutro"
+    },
+    "notas_importantes": [
+      {
+        "texto": "pode ter receio de conversar com robôs",
+        "data": "2026-08-19T00:25:37.000Z",
+        "relevancia": "alta"
+      },
+      {
+        "texto": "[relacao] Bia parece ter um senso de humor",
+        "data": "2026-08-19T00:26:49.000Z",
+        "relevancia": "alta"
+      },
+      {
+        "texto": "pode ter receio de conversar com robôs",
+        "data": "2026-08-20T02:51:05.000Z",
+        "relevancia": "alta"
+      }
+    ],
+    "ultima_atualizacao": "2026-08-20T02:51:05.000Z"
+  },
+  "188777486106872@lid_humana": {
+    "userId": "188777486106872@lid_humana",
+    "nome": "Edney",
+    "apelidos": [],
+    "preferencias": {
+      "assuntos_favoritos": [],
+      "gostos": [
+        "[preferencia] gosta de fazer perguntas diretas",
+        "[preferencia] gosta de fazer perguntas diretas e curiosas"
+      ],
+      "nao_gostos": [],
+      "hobbies": [],
+      "estilo_conversa": "casual",
+      "usa_emojis": true,
+      "formal": false
+    },
+    "informacoes_pessoais": {
+      "idade": null,
+      "localizacao": null,
+      "profissao": null,
+      "relacionamento": null,
+      "familia": []
+    },
+    "historico_conversa": {
+      "total_mensagens": 5,
+      "primeira_conversa": "2026-08-19T00:34:23.000Z",
+      "ultima_conversa": "2026-08-21T13:38:38.000Z",
+      "frequencia_interacao": "baixa",
+      "topicos_recentes": []
+    },
+    "padroes_comportamento": {
+      "horarios_ativos": {
+        "10": 3,
+        "21": 2
+      },
+      "dias_semana_ativos": {
+        "terça-feira": 2,
+        "sexta-feira": 3
+      },
+      "humor_comum": "neutro",
+      "tipo_mensagens": {
+        "perguntas": 0,
+        "afirmacoes": 0,
+        "emocoes": 0,
+        "comandos": 0
+      }
+    },
+    "relacionamento_nazuna": {
+      "nivel_intimidade": 1,
+      "apelido_nazuna": null,
+      "memorias_especiais": [],
+      "conversas_marcantes": [],
+      "sentimento": "neutro"
+    },
+    "notas_importantes": [
+      {
+        "texto": "está passando por uma decepção",
+        "data": "2026-08-21T13:34:18.000Z",
+        "relevancia": "alta"
+      },
+      {
+        "texto": "está passando por uma decepção e pode precisar de apoio",
+        "data": "2026-08-21T13:35:23.000Z",
+        "relevancia": "alta"
+      },
+      {
+        "texto": "Edney está passando por uma fase ruim e pode precisar de apoio emocional",
+        "data": "2026-08-21T13:39:19.000Z",
+        "relevancia": "alta"
+      }
+    ],
+    "ultima_atualizacao": "2026-08-21T13:39:19.000Z"
+  },
+  "273821428899949@lid_humana": {
+    "userId": "273821428899949@lid_humana",
+    "nome": "Ryan Machado Pereira",
+    "apelidos": [],
+    "preferencias": {
+      "assuntos_favoritos": [],
+      "gostos": [
+        "[preferencia] não gosta de ser confundido com IA",
+        "[preferencia] gosta de humor",
+        "[preferencia] gosta de saber o que é considerado cool",
+        "[preferencia] gosta de conversar sobre grupos e comunidades",
+        "[preferencia] gosta de humor absurdo",
+        "[preferencia] gosta de brincar com a linguagem",
+        "[preferencia] gosta de humor e brincar com a linguagem"
+      ],
+      "nao_gostos": [],
+      "hobbies": [],
+      "estilo_conversa": "casual",
+      "usa_emojis": true,
+      "formal": false
+    },
+    "informacoes_pessoais": {
+      "idade": null,
+      "localizacao": null,
+      "profissao": null,
+      "relacionamento": null,
+      "familia": []
+    },
+    "historico_conversa": {
+      "total_mensagens": 12,
+      "primeira_conversa": "2026-08-19T00:53:27.000Z",
+      "ultima_conversa": "2026-08-20T00:35:45.000Z",
+      "frequencia_interacao": "alta",
+      "topicos_recentes": []
+    },
+    "padroes_comportamento": {
+      "horarios_ativos": {
+        "15": 3,
+        "20": 1,
+        "21": 6,
+        "22": 2
+      },
+      "dias_semana_ativos": {
+        "terça-feira": 7,
+        "quarta-feira": 5
+      },
+      "humor_comum": "neutro",
+      "tipo_mensagens": {
+        "perguntas": 0,
+        "afirmacoes": 0,
+        "emocoes": 0,
+        "comandos": 0
+      }
+    },
+    "relacionamento_nazuna": {
+      "nivel_intimidade": 1,
+      "apelido_nazuna": null,
+      "memorias_especiais": [],
+      "conversas_marcantes": [],
+      "sentimento": "neutro"
+    },
+    "notas_importantes": [
+      {
+        "texto": "Ryan pode estar passando por um momento difícil",
+        "data": "2026-08-19T00:56:56.000Z",
+        "relevancia": "alta"
+      },
+      {
+        "texto": "Ryan está pedindo pra alguém dar encima de outra pessoa",
+        "data": "2026-08-19T18:51:07.000Z",
+        "relevancia": "alta"
+      },
+      {
+        "texto": "Ryan pode estar rindo de algo que não está claro",
+        "data": "2026-08-19T18:51:45.000Z",
+        "relevancia": "alta"
+      }
+    ],
+    "ultima_atualizacao": "2026-08-20T00:36:19.000Z"
+  },
+  "167538352758923@lid_humana": {
+    "userId": "167538352758923@lid_humana",
+    "nome": "ㅤ",
+    "apelidos": [],
+    "preferencias": {
+      "assuntos_favoritos": [],
+      "gostos": [
+        "[preferencia] gosta de brincar e fazer piadas",
+        "[preferencia] interessado em relacionamentos",
+        "[preferencia] interessado em viagens e aventuras",
+        "[preferencia] gosta de viagens e aventuras"
+      ],
+      "nao_gostos": [],
+      "hobbies": [],
+      "estilo_conversa": "casual",
+      "usa_emojis": true,
+      "formal": false
+    },
+    "informacoes_pessoais": {
+      "idade": null,
+      "localizacao": null,
+      "profissao": null,
+      "relacionamento": null,
+      "familia": []
+    },
+    "historico_conversa": {
+      "total_mensagens": 5,
+      "primeira_conversa": "2026-08-19T00:57:38.000Z",
+      "ultima_conversa": "2026-08-20T15:24:16.000Z",
+      "frequencia_interacao": "baixa",
+      "topicos_recentes": []
+    },
+    "padroes_comportamento": {
+      "horarios_ativos": {
+        "12": 2,
+        "21": 3
+      },
+      "dias_semana_ativos": {
+        "terça-feira": 3,
+        "quinta-feira": 2
+      },
+      "humor_comum": "neutro",
+      "tipo_mensagens": {
+        "perguntas": 0,
+        "afirmacoes": 0,
+        "emocoes": 0,
+        "comandos": 0
+      }
+    },
+    "relacionamento_nazuna": {
+      "nivel_intimidade": 1,
+      "apelido_nazuna": null,
+      "memorias_especiais": [],
+      "conversas_marcantes": [],
+      "sentimento": "neutro"
+    },
+    "notas_importantes": [],
+    "ultima_atualizacao": "2026-08-20T15:24:45.000Z"
+  },
+  "273821428899949@lid_nazuna": {
+    "userId": "273821428899949@lid_nazuna",
+    "nome": "Ryan Machado Pereira",
+    "apelidos": [],
+    "preferencias": {
+      "assuntos_favoritos": [
+        "tecnologia"
+      ],
+      "gostos": [
+        "tecnologia"
+      ],
+      "nao_gostos": [],
+      "hobbies": [],
+      "estilo_conversa": "casual",
+      "usa_emojis": true,
+      "formal": false
+    },
+    "informacoes_pessoais": {
+      "idade": null,
+      "localizacao": null,
+      "profissao": null,
+      "relacionamento": null,
+      "familia": []
+    },
+    "historico_conversa": {
+      "total_mensagens": 8,
+      "primeira_conversa": "2026-08-19T01:11:15.000Z",
+      "ultima_conversa": "2026-08-21T20:09:34.000Z",
+      "frequencia_interacao": "baixa",
+      "topicos_recentes": [
+        "tecnologia"
+      ]
+    },
+    "padroes_comportamento": {
+      "horarios_ativos": {
+        "14": 2,
+        "16": 1,
+        "17": 1,
+        "21": 3,
+        "22": 1
+      },
+      "dias_semana_ativos": {
+        "terça-feira": 1,
+        "quarta-feira": 3,
+        "sexta-feira": 4
+      },
+      "humor_comum": "neutro",
+      "tipo_mensagens": {
+        "perguntas": 0,
+        "afirmacoes": 0,
+        "emocoes": 0,
+        "comandos": 0
+      }
+    },
+    "relacionamento_nazuna": {
+      "nivel_intimidade": 1,
+      "apelido_nazuna": null,
+      "memorias_especiais": [],
+      "conversas_marcantes": [],
+      "sentimento": "neutro"
+    },
+    "notas_importantes": [],
+    "ultima_atualizacao": "2026-08-21T20:09:34.000Z"
+  },
+  "229798450307158@lid_humana": {
+    "userId": "229798450307158@lid_humana",
+    "nome": "souza_rzt",
+    "apelidos": [],
+    "preferencias": {
+      "assuntos_favoritos": [],
+      "gostos": [
+        "[preferencia] gosta de brincar com o início da conversa"
+      ],
+      "nao_gostos": [],
+      "hobbies": [],
+      "estilo_conversa": "casual",
+      "usa_emojis": true,
+      "formal": false
+    },
+    "informacoes_pessoais": {
+      "idade": null,
+      "localizacao": null,
+      "profissao": null,
+      "relacionamento": null,
+      "familia": []
+    },
+    "historico_conversa": {
+      "total_mensagens": 1,
+      "primeira_conversa": "2026-08-19T01:13:43.000Z",
+      "ultima_conversa": "2026-08-19T01:13:43.000Z",
+      "frequencia_interacao": "muito_baixa",
+      "topicos_recentes": []
+    },
+    "padroes_comportamento": {
+      "horarios_ativos": {
+        "22": 1
+      },
+      "dias_semana_ativos": {
+        "terça-feira": 1
+      },
+      "humor_comum": "neutro",
+      "tipo_mensagens": {
+        "perguntas": 0,
+        "afirmacoes": 0,
+        "emocoes": 0,
+        "comandos": 0
+      }
+    },
+    "relacionamento_nazuna": {
+      "nivel_intimidade": 1,
+      "apelido_nazuna": null,
+      "memorias_especiais": [],
+      "conversas_marcantes": [],
+      "sentimento": "neutro"
+    },
+    "notas_importantes": [],
+    "ultima_atualizacao": "2026-08-19T01:17:13.000Z"
+  },
+  "145732636008486@lid_humana": {
+    "userId": "145732636008486@lid_humana",
+    "nome": "A Insuportável 🖕",
+    "apelidos": [],
+    "preferencias": {
+      "assuntos_favoritos": [],
+      "gostos": [
+        "[preferencia] usa gírias e linguagem informal",
+        "[preferencia] usa linguagem informal e gírias",
+        "[preferencia] gosta de usar linguagem informal e chamar atenção",
+        "[preferencia] gosta de falar sobre outras pessoas",
+        "[preferencia] gosta de animes",
+        "[preferencia] cuida com a saúde e alimentação",
+        "[preferencia] gosta de falar sobre comida",
+        "[preferencia] gosta de comida japonesa",
+        "[preferencia] não gosta de temaki",
+        "[preferencia] gosta de comer",
+        "[preferencia] gosta de comida brasileira",
+        "[preferencia] gosta de ir ao Café do Brasil",
+        "[preferencia] gosta de dividir a conta",
+        "[preferencia] gosta de ser tratado com gentileza e respeito",
+        "[preferencia] gosta de se despedir do grupo antes de sair"
+      ],
+      "nao_gostos": [],
+      "hobbies": [],
+      "estilo_conversa": "casual",
+      "usa_emojis": true,
+      "formal": false
+    },
+    "informacoes_pessoais": {
+      "idade": null,
+      "localizacao": null,
+      "profissao": null,
+      "relacionamento": null,
+      "familia": []
+    },
+    "historico_conversa": {
+      "total_mensagens": 29,
+      "primeira_conversa": "2026-08-19T13:06:52.000Z",
+      "ultima_conversa": "2026-08-21T16:26:34.000Z",
+      "frequencia_interacao": "alta",
+      "topicos_recentes": []
+    },
+    "padroes_comportamento": {
+      "horarios_ativos": {
+        "10": 1,
+        "11": 8,
+        "12": 15,
+        "13": 3,
+        "14": 2
+      },
+      "dias_semana_ativos": {
+        "quarta-feira": 11,
+        "quinta-feira": 4,
+        "sexta-feira": 14
+      },
+      "humor_comum": "neutro",
+      "tipo_mensagens": {
+        "perguntas": 0,
+        "afirmacoes": 0,
+        "emocoes": 0,
+        "comandos": 0
+      }
+    },
+    "relacionamento_nazuna": {
+      "nivel_intimidade": 1,
+      "apelido_nazuna": null,
+      "memorias_especiais": [],
+      "conversas_marcantes": [],
+      "sentimento": "neutro"
+    },
+    "notas_importantes": [
+      {
+        "texto": "usuário tende a ser agressivo e usa linguagem informal",
+        "data": "2026-08-19T14:30:04.000Z",
+        "relevancia": "alta"
+      },
+      {
+        "texto": "usuário tem tendência a ser agressivo e usar linguagem informal",
+        "data": "2026-08-20T15:55:07.000Z",
+        "relevancia": "alta"
+      },
+      {
+        "texto": "o usuário usa linguagem informal e gírias",
+        "data": "2026-08-21T15:11:49.000Z",
+        "relevancia": "alta"
+      },
+      {
+        "texto": "usuário é sensível ao dinheiro e pode se sentir mal por não ter condições de pagar",
+        "data": "2026-08-21T15:22:59.000Z",
+        "relevancia": "alta"
+      },
+      {
+        "texto": "o usuário tende a ser agressivo e usar linguagem informal",
+        "data": "2026-08-21T16:28:20.000Z",
+        "relevancia": "alta"
+      }
+    ],
+    "ultima_atualizacao": "2026-08-21T16:28:20.000Z"
+  },
+  "97775131861231@lid_humana": {
+    "userId": "97775131861231@lid_humana",
+    "nome": "Luiza 🦁",
+    "apelidos": [],
+    "preferencias": {
+      "assuntos_favoritos": [],
+      "gostos": [
+        "[preferencia] curiosidade sobre relacionamentos",
+        "[preferencia] gosta de fazer piadas"
+      ],
+      "nao_gostos": [],
+      "hobbies": [],
+      "estilo_conversa": "casual",
+      "usa_emojis": true,
+      "formal": false
+    },
+    "informacoes_pessoais": {
+      "idade": null,
+      "localizacao": null,
+      "profissao": null,
+      "relacionamento": null,
+      "familia": []
+    },
+    "historico_conversa": {
+      "total_mensagens": 9,
+      "primeira_conversa": "2026-08-19T14:28:34.000Z",
+      "ultima_conversa": "2026-08-20T16:46:06.000Z",
+      "frequencia_interacao": "media",
+      "topicos_recentes": []
+    },
+    "padroes_comportamento": {
+      "horarios_ativos": {
+        "11": 8,
+        "13": 1
+      },
+      "dias_semana_ativos": {
+        "quarta-feira": 8,
+        "quinta-feira": 1
+      },
+      "humor_comum": "neutro",
+      "tipo_mensagens": {
+        "perguntas": 0,
+        "afirmacoes": 0,
+        "emocoes": 0,
+        "comandos": 0
+      }
+    },
+    "relacionamento_nazuna": {
+      "nivel_intimidade": 1,
+      "apelido_nazuna": null,
+      "memorias_especiais": [],
+      "conversas_marcantes": [],
+      "sentimento": "neutro"
+    },
+    "notas_importantes": [
+      {
+        "texto": "Aline tem um relacionamento surpresa",
+        "data": "2026-08-19T14:33:11.000Z",
+        "relevancia": "alta"
+      },
+      {
+        "texto": "Aline tem um relacionamento",
+        "data": "2026-08-19T14:33:51.000Z",
+        "relevancia": "alta"
+      },
+      {
+        "texto": "estressada",
+        "data": "2026-08-19T14:34:23.000Z",
+        "relevancia": "alta"
+      },
+      {
+        "texto": "Luiza está estressada hoje",
+        "data": "2026-08-19T14:42:15.000Z",
+        "relevancia": "alta"
+      },
+      {
+        "texto": "Luiza está estressada hoje",
+        "data": "2026-08-20T16:47:49.000Z",
+        "relevancia": "alta"
+      }
+    ],
+    "ultima_atualizacao": "2026-08-20T16:47:49.000Z"
+  },
+  "2298411544634@lid_humana": {
+    "userId": "2298411544634@lid_humana",
+    "nome": "Alice silva",
+    "apelidos": [],
+    "preferencias": {
+      "assuntos_favoritos": [],
+      "gostos": [
+        "[preferencia] gosta de conversar sobre o dia"
+      ],
+      "nao_gostos": [],
+      "hobbies": [],
+      "estilo_conversa": "casual",
+      "usa_emojis": true,
+      "formal": false
+    },
+    "informacoes_pessoais": {
+      "idade": null,
+      "localizacao": null,
+      "profissao": null,
+      "relacionamento": null,
+      "familia": []
+    },
+    "historico_conversa": {
+      "total_mensagens": 1,
+      "primeira_conversa": "2026-08-19T15:06:31.000Z",
+      "ultima_conversa": "2026-08-19T15:06:31.000Z",
+      "frequencia_interacao": "muito_baixa",
+      "topicos_recentes": []
+    },
+    "padroes_comportamento": {
+      "horarios_ativos": {
+        "12": 1
+      },
+      "dias_semana_ativos": {
+        "quarta-feira": 1
+      },
+      "humor_comum": "neutro",
+      "tipo_mensagens": {
+        "perguntas": 0,
+        "afirmacoes": 0,
+        "emocoes": 0,
+        "comandos": 0
+      }
+    },
+    "relacionamento_nazuna": {
+      "nivel_intimidade": 1,
+      "apelido_nazuna": null,
+      "memorias_especiais": [],
+      "conversas_marcantes": [],
+      "sentimento": "neutro"
+    },
+    "notas_importantes": [],
+    "ultima_atualizacao": "2026-08-19T15:16:20.000Z"
+  },
+  "160232546242639@lid_humana": {
+    "userId": "160232546242639@lid_humana",
+    "nome": "🦅🖤🤍",
+    "apelidos": [],
+    "preferencias": {
+      "assuntos_favoritos": [],
+      "gostos": [
+        "[preferencia] gosta de conversar sobre o dia",
+        "[preferencia] gosta de treinar"
+      ],
+      "nao_gostos": [],
+      "hobbies": [],
+      "estilo_conversa": "casual",
+      "usa_emojis": true,
+      "formal": false
+    },
+    "informacoes_pessoais": {
+      "idade": null,
+      "localizacao": null,
+      "profissao": null,
+      "relacionamento": null,
+      "familia": []
+    },
+    "historico_conversa": {
+      "total_mensagens": 2,
+      "primeira_conversa": "2026-08-19T17:10:18.000Z",
+      "ultima_conversa": "2026-08-19T17:11:07.000Z",
+      "frequencia_interacao": "baixa",
+      "topicos_recentes": []
+    },
+    "padroes_comportamento": {
+      "horarios_ativos": {
+        "14": 2
+      },
+      "dias_semana_ativos": {
+        "quarta-feira": 2
+      },
+      "humor_comum": "neutro",
+      "tipo_mensagens": {
+        "perguntas": 0,
+        "afirmacoes": 0,
+        "emocoes": 0,
+        "comandos": 0
+      }
+    },
+    "relacionamento_nazuna": {
+      "nivel_intimidade": 1,
+      "apelido_nazuna": null,
+      "memorias_especiais": [],
+      "conversas_marcantes": [],
+      "sentimento": "neutro"
+    },
+    "notas_importantes": [],
+    "ultima_atualizacao": "2026-08-19T17:11:28.000Z"
+  },
+  "273821428899949@lid_pro": {
+    "userId": "273821428899949@lid_pro",
+    "nome": "Ryan Machado Pereira",
+    "apelidos": [],
+    "preferencias": {
+      "assuntos_favoritos": [],
+      "gostos": [],
+      "nao_gostos": [],
+      "hobbies": [],
+      "estilo_conversa": "casual",
+      "usa_emojis": true,
+      "formal": false
+    },
+    "informacoes_pessoais": {
+      "idade": null,
+      "localizacao": null,
+      "profissao": null,
+      "relacionamento": null,
+      "familia": []
+    },
+    "historico_conversa": {
+      "total_mensagens": 5,
+      "primeira_conversa": "2026-08-19T18:06:37.000Z",
+      "ultima_conversa": "2026-08-19T18:47:25.000Z",
+      "frequencia_interacao": "baixa",
+      "topicos_recentes": []
+    },
+    "padroes_comportamento": {
+      "horarios_ativos": {
+        "15": 5
+      },
+      "dias_semana_ativos": {
+        "quarta-feira": 5
+      },
+      "humor_comum": "neutro",
+      "tipo_mensagens": {
+        "perguntas": 0,
+        "afirmacoes": 0,
+        "emocoes": 0,
+        "comandos": 0
+      }
+    },
+    "relacionamento_nazuna": {
+      "nivel_intimidade": 1,
+      "apelido_nazuna": null,
+      "memorias_especiais": [],
+      "conversas_marcantes": [],
+      "sentimento": "neutro"
+    },
+    "notas_importantes": [],
+    "ultima_atualizacao": "2026-08-19T18:47:25.000Z"
+  },
+  "102212252512380@lid_humana": {
+    "userId": "102212252512380@lid_humana",
+    "nome": "♤Cid Kagenou♤",
+    "apelidos": [],
+    "preferencias": {
+      "assuntos_favoritos": [],
+      "gostos": [
+        "[preferencia] gosta de conversar de forma informal"
+      ],
+      "nao_gostos": [],
+      "hobbies": [],
+      "estilo_conversa": "casual",
+      "usa_emojis": true,
+      "formal": false
+    },
+    "informacoes_pessoais": {
+      "idade": null,
+      "localizacao": null,
+      "profissao": null,
+      "relacionamento": null,
+      "familia": []
+    },
+    "historico_conversa": {
+      "total_mensagens": 1,
+      "primeira_conversa": "2026-08-19T18:54:09.000Z",
+      "ultima_conversa": "2026-08-19T18:54:09.000Z",
+      "frequencia_interacao": "muito_baixa",
+      "topicos_recentes": []
+    },
+    "padroes_comportamento": {
+      "horarios_ativos": {
+        "15": 1
+      },
+      "dias_semana_ativos": {
+        "quarta-feira": 1
+      },
+      "humor_comum": "neutro",
+      "tipo_mensagens": {
+        "perguntas": 0,
+        "afirmacoes": 0,
+        "emocoes": 0,
+        "comandos": 0
+      }
+    },
+    "relacionamento_nazuna": {
+      "nivel_intimidade": 1,
+      "apelido_nazuna": null,
+      "memorias_especiais": [],
+      "conversas_marcantes": [],
+      "sentimento": "neutro"
+    },
+    "notas_importantes": [],
+    "ultima_atualizacao": "2026-08-19T18:54:29.000Z"
+  },
+  "234565864030320@lid_humana": {
+    "userId": "234565864030320@lid_humana",
+    "nome": "Danylo",
+    "apelidos": [],
+    "preferencias": {
+      "assuntos_favoritos": [],
+      "gostos": [
+        "[preferencia] gosta de fazer piadas ou brincar"
+      ],
+      "nao_gostos": [],
+      "hobbies": [],
+      "estilo_conversa": "casual",
+      "usa_emojis": true,
+      "formal": false
+    },
+    "informacoes_pessoais": {
+      "idade": null,
+      "localizacao": null,
+      "profissao": null,
+      "relacionamento": null,
+      "familia": []
+    },
+    "historico_conversa": {
+      "total_mensagens": 2,
+      "primeira_conversa": "2026-08-19T19:24:24.000Z",
+      "ultima_conversa": "2026-08-19T19:25:33.000Z",
+      "frequencia_interacao": "baixa",
+      "topicos_recentes": []
+    },
+    "padroes_comportamento": {
+      "horarios_ativos": {
+        "16": 2
+      },
+      "dias_semana_ativos": {
+        "quarta-feira": 2
+      },
+      "humor_comum": "neutro",
+      "tipo_mensagens": {
+        "perguntas": 0,
+        "afirmacoes": 0,
+        "emocoes": 0,
+        "comandos": 0
+      }
+    },
+    "relacionamento_nazuna": {
+      "nivel_intimidade": 1,
+      "apelido_nazuna": null,
+      "memorias_especiais": [],
+      "conversas_marcantes": [],
+      "sentimento": "neutro"
+    },
+    "notas_importantes": [],
+    "ultima_atualizacao": "2026-08-19T19:26:08.000Z"
+  },
+  "245500381012123@lid_nazuna": {
+    "userId": "245500381012123@lid_nazuna",
+    "nome": "Son Joyka🧧",
+    "apelidos": [],
+    "preferencias": {
+      "assuntos_favoritos": [],
+      "gostos": [],
+      "nao_gostos": [],
+      "hobbies": [],
+      "estilo_conversa": "casual",
+      "usa_emojis": true,
+      "formal": false
+    },
+    "informacoes_pessoais": {
+      "idade": null,
+      "localizacao": null,
+      "profissao": null,
+      "relacionamento": null,
+      "familia": []
+    },
+    "historico_conversa": {
+      "total_mensagens": 1,
+      "primeira_conversa": "2026-08-20T00:51:58.000Z",
+      "ultima_conversa": "2026-08-20T00:51:58.000Z",
+      "frequencia_interacao": "muito_baixa",
+      "topicos_recentes": []
+    },
+    "padroes_comportamento": {
+      "horarios_ativos": {
+        "21": 1
+      },
+      "dias_semana_ativos": {
+        "quarta-feira": 1
+      },
+      "humor_comum": "neutro",
+      "tipo_mensagens": {
+        "perguntas": 0,
+        "afirmacoes": 0,
+        "emocoes": 0,
+        "comandos": 0
+      }
+    },
+    "relacionamento_nazuna": {
+      "nivel_intimidade": 1,
+      "apelido_nazuna": null,
+      "memorias_especiais": [],
+      "conversas_marcantes": [],
+      "sentimento": "neutro"
+    },
+    "notas_importantes": [
+      {
+        "texto": "Perguntou 'que isso' sem contexto",
+        "data": "2026-08-20T00:53:13.000Z",
+        "relevancia": "alta"
+      }
+    ],
+    "ultima_atualizacao": "2026-08-20T00:53:13.000Z"
+  },
+  "48022784319603@lid_humana": {
+    "userId": "48022784319603@lid_humana",
+    "nome": "Davi",
+    "apelidos": [],
+    "preferencias": {
+      "assuntos_favoritos": [],
+      "gostos": [
+        "[preferencia] gosta de compartilhar sentimentos positivos",
+        "[preferencia] gosta de fazer piadas sobre morte",
+        "[preferencia] gosta de música tranquila",
+        "[preferencia] gosta de descobrir novos artistas",
+        "[preferencia] não quer mais recomendações de música",
+        "[preferencia] gosta de se autodenominar vagabundo"
+      ],
+      "nao_gostos": [],
+      "hobbies": [],
+      "estilo_conversa": "casual",
+      "usa_emojis": true,
+      "formal": false
+    },
+    "informacoes_pessoais": {
+      "idade": null,
+      "localizacao": null,
+      "profissao": null,
+      "relacionamento": null,
+      "familia": []
+    },
+    "historico_conversa": {
+      "total_mensagens": 12,
+      "primeira_conversa": "2026-08-20T02:46:36.000Z",
+      "ultima_conversa": "2026-08-20T03:09:26.000Z",
+      "frequencia_interacao": "alta",
+      "topicos_recentes": []
+    },
+    "padroes_comportamento": {
+      "horarios_ativos": {
+        "0": 4,
+        "23": 8
+      },
+      "dias_semana_ativos": {
+        "quarta-feira": 8,
+        "quinta-feira": 4
+      },
+      "humor_comum": "neutro",
+      "tipo_mensagens": {
+        "perguntas": 0,
+        "afirmacoes": 0,
+        "emocoes": 0,
+        "comandos": 0
+      }
+    },
+    "relacionamento_nazuna": {
+      "nivel_intimidade": 1,
+      "apelido_nazuna": null,
+      "memorias_especiais": [],
+      "conversas_marcantes": [],
+      "sentimento": "neutro"
+    },
+    "notas_importantes": [
+      {
+        "texto": "Davi pode ter um senso de humor negro ou estar passando por um momento difícil",
+        "data": "2026-08-20T02:50:24.000Z",
+        "relevancia": "alta"
+      },
+      {
+        "texto": "tem humor peculiar e gosta de brincar com assuntos sérios",
+        "data": "2026-08-20T02:51:07.000Z",
+        "relevancia": "alta"
+      },
+      {
+        "texto": "Davi tem um senso de humor peculiar e pode estar passando por um momento difícil",
+        "data": "2026-08-20T02:53:57.000Z",
+        "relevancia": "alta"
+      },
+      {
+        "texto": "Davi não quer mais recomendações de música",
+        "data": "2026-08-20T03:03:20.000Z",
+        "relevancia": "alta"
+      },
+      {
+        "texto": "Davi pode estar passando por um momento difícil",
+        "data": "2026-08-20T03:08:33.000Z",
+        "relevancia": "alta"
+      }
+    ],
+    "ultima_atualizacao": "2026-08-20T03:09:36.000Z"
+  },
+  "102212252512380@lid_nazuna": {
+    "userId": "102212252512380@lid_nazuna",
+    "nome": "♤Cid Kagenou♤",
+    "apelidos": [],
+    "preferencias": {
+      "assuntos_favoritos": [],
+      "gostos": [],
+      "nao_gostos": [],
+      "hobbies": [],
+      "estilo_conversa": "casual",
+      "usa_emojis": true,
+      "formal": false
+    },
+    "informacoes_pessoais": {
+      "idade": null,
+      "localizacao": null,
+      "profissao": null,
+      "relacionamento": null,
+      "familia": []
+    },
+    "historico_conversa": {
+      "total_mensagens": 1,
+      "primeira_conversa": "2026-08-20T03:38:45.000Z",
+      "ultima_conversa": "2026-08-20T03:38:45.000Z",
+      "frequencia_interacao": "muito_baixa",
+      "topicos_recentes": []
+    },
+    "padroes_comportamento": {
+      "horarios_ativos": {
+        "0": 1
+      },
+      "dias_semana_ativos": {
+        "quinta-feira": 1
+      },
+      "humor_comum": "neutro",
+      "tipo_mensagens": {
+        "perguntas": 0,
+        "afirmacoes": 0,
+        "emocoes": 0,
+        "comandos": 0
+      }
+    },
+    "relacionamento_nazuna": {
+      "nivel_intimidade": 1,
+      "apelido_nazuna": null,
+      "memorias_especiais": [],
+      "conversas_marcantes": [],
+      "sentimento": "neutro"
+    },
+    "notas_importantes": [],
+    "ultima_atualizacao": "2026-08-20T03:38:45.000Z"
+  },
+  "12181299056738@lid_humana": {
+    "userId": "12181299056738@lid_humana",
+    "nome": "𝐷𝑐.𝐷𝑢𝑠𝑡ᵇᵒᵗ",
+    "apelidos": [],
+    "preferencias": {
+      "assuntos_favoritos": [],
+      "gostos": [
+        "[preferencia] gosta de celebrar promoções"
+      ],
+      "nao_gostos": [],
+      "hobbies": [],
+      "estilo_conversa": "casual",
+      "usa_emojis": true,
+      "formal": false
+    },
+    "informacoes_pessoais": {
+      "idade": null,
+      "localizacao": null,
+      "profissao": null,
+      "relacionamento": null,
+      "familia": []
+    },
+    "historico_conversa": {
+      "total_mensagens": 1,
+      "primeira_conversa": "2026-08-20T15:26:42.000Z",
+      "ultima_conversa": "2026-08-20T15:26:42.000Z",
+      "frequencia_interacao": "muito_baixa",
+      "topicos_recentes": []
+    },
+    "padroes_comportamento": {
+      "horarios_ativos": {
+        "12": 1
+      },
+      "dias_semana_ativos": {
+        "quinta-feira": 1
+      },
+      "humor_comum": "neutro",
+      "tipo_mensagens": {
+        "perguntas": 0,
+        "afirmacoes": 0,
+        "emocoes": 0,
+        "comandos": 0
+      }
+    },
+    "relacionamento_nazuna": {
+      "nivel_intimidade": 1,
+      "apelido_nazuna": null,
+      "memorias_especiais": [],
+      "conversas_marcantes": [],
+      "sentimento": "neutro"
+    },
+    "notas_importantes": [],
+    "ultima_atualizacao": "2026-08-20T15:27:15.000Z"
+  },
+  "235317701394575@lid_humana": {
+    "userId": "235317701394575@lid_humana",
+    "nome": null,
+    "apelidos": [],
+    "preferencias": {
+      "assuntos_favoritos": [],
+      "gostos": [
+        "[preferencia] gosta de chamar atenção",
+        "[preferencia] gosta de ser lembrado das regras"
+      ],
+      "nao_gostos": [],
+      "hobbies": [],
+      "estilo_conversa": "casual",
+      "usa_emojis": true,
+      "formal": false
+    },
+    "informacoes_pessoais": {
+      "idade": null,
+      "localizacao": null,
+      "profissao": null,
+      "relacionamento": null,
+      "familia": []
+    },
+    "historico_conversa": {
+      "total_mensagens": 3,
+      "primeira_conversa": "2026-08-20T15:53:15.000Z",
+      "ultima_conversa": "2026-08-22T11:38:44.000Z",
+      "frequencia_interacao": "baixa",
+      "topicos_recentes": []
+    },
+    "padroes_comportamento": {
+      "horarios_ativos": {
+        "8": 1,
+        "12": 1,
+        "13": 1
+      },
+      "dias_semana_ativos": {
+        "quinta-feira": 1,
+        "sexta-feira": 1,
+        "sábado": 1
+      },
+      "humor_comum": "neutro",
+      "tipo_mensagens": {
+        "perguntas": 0,
+        "afirmacoes": 0,
+        "emocoes": 0,
+        "comandos": 0
+      }
+    },
+    "relacionamento_nazuna": {
+      "nivel_intimidade": 1,
+      "apelido_nazuna": null,
+      "memorias_especiais": [],
+      "conversas_marcantes": [],
+      "sentimento": "neutro"
+    },
+    "notas_importantes": [],
+    "ultima_atualizacao": "2026-08-22T11:40:16.000Z",
+    "memoria_social": {
+      "observacoes": [
+        "O usuário parece ter autoridade no grupo, fazendo referência à si mesmo como 'admin'."
+      ],
+      "pessoas_mencionadas": [],
+      "assuntos_recorrentes": [
+        "Regras do grupo"
+      ]
+    }
+  },
+  "14495548178601@lid_humana": {
+    "userId": "14495548178601@lid_humana",
+    "nome": "マルクス",
+    "apelidos": [],
+    "preferencias": {
+      "assuntos_favoritos": [],
+      "gostos": [
+        "[preferencia] gosta de brincar com a ideia de sobremesa",
+        "[preferencia] gosta de fazer piadas sobre sobremesa",
+        "[preferencia] gosta de brincar com a ideia de comida quando está com fome",
+        "[preferencia] gosta de biscoito",
+        "[preferencia] gosta de biscoito rosquinha"
+      ],
+      "nao_gostos": [],
+      "hobbies": [],
+      "estilo_conversa": "casual",
+      "usa_emojis": true,
+      "formal": false
+    },
+    "informacoes_pessoais": {
+      "idade": null,
+      "localizacao": null,
+      "profissao": null,
+      "relacionamento": null,
+      "familia": []
+    },
+    "historico_conversa": {
+      "total_mensagens": 6,
+      "primeira_conversa": "2026-08-20T19:22:41.000Z",
+      "ultima_conversa": "2026-08-21T00:50:29.000Z",
+      "frequencia_interacao": "media",
+      "topicos_recentes": []
+    },
+    "padroes_comportamento": {
+      "horarios_ativos": {
+        "16": 1,
+        "17": 1,
+        "18": 2,
+        "21": 2
+      },
+      "dias_semana_ativos": {
+        "quinta-feira": 6
+      },
+      "humor_comum": "neutro",
+      "tipo_mensagens": {
+        "perguntas": 0,
+        "afirmacoes": 0,
+        "emocoes": 0,
+        "comandos": 0
+      }
+    },
+    "relacionamento_nazuna": {
+      "nivel_intimidade": 1,
+      "apelido_nazuna": null,
+      "memorias_especiais": [],
+      "conversas_marcantes": [],
+      "sentimento": "neutro"
+    },
+    "notas_importantes": [],
+    "ultima_atualizacao": "2026-08-21T00:50:29.000Z"
+  },
+  "79728216113177@lid_humana": {
+    "userId": "79728216113177@lid_humana",
+    "nome": "Kaio Mendes",
+    "apelidos": [],
+    "preferencias": {
+      "assuntos_favoritos": [],
+      "gostos": [
+        "[preferencia] gosta de saber sobre o dia",
+        "[preferencia] gosta de falar sobre o trabalho",
+        "[preferencia] gosta de brincar com a conversa",
+        "[preferencia] não gosta de explicações longas",
+        "[preferencia] gosta de brincar com a conversa e fazer piadas",
+        "[preferencia] gosta de pizza",
+        "[preferencia] gosta de pizza calabresa"
+      ],
+      "nao_gostos": [],
+      "hobbies": [],
+      "estilo_conversa": "casual",
+      "usa_emojis": true,
+      "formal": false
+    },
+    "informacoes_pessoais": {
+      "idade": null,
+      "localizacao": null,
+      "profissao": null,
+      "relacionamento": null,
+      "familia": []
+    },
+    "historico_conversa": {
+      "total_mensagens": 9,
+      "primeira_conversa": "2026-08-20T22:46:52.000Z",
+      "ultima_conversa": "2026-08-21T20:28:41.000Z",
+      "frequencia_interacao": "media",
+      "topicos_recentes": []
+    },
+    "padroes_comportamento": {
+      "horarios_ativos": {
+        "13": 2,
+        "17": 4,
+        "19": 3
+      },
+      "dias_semana_ativos": {
+        "quinta-feira": 3,
+        "sexta-feira": 6
+      },
+      "humor_comum": "neutro",
+      "tipo_mensagens": {
+        "perguntas": 0,
+        "afirmacoes": 0,
+        "emocoes": 0,
+        "comandos": 0
+      }
+    },
+    "relacionamento_nazuna": {
+      "nivel_intimidade": 1,
+      "apelido_nazuna": null,
+      "memorias_especiais": [],
+      "conversas_marcantes": [],
+      "sentimento": "neutro"
+    },
+    "notas_importantes": [
+      {
+        "texto": "acha que sou um bot",
+        "data": "2026-08-20T22:50:25.000Z",
+        "relevancia": "alta"
+      },
+      {
+        "texto": "acha que sou um bot",
+        "data": "2026-08-21T20:26:55.000Z",
+        "relevancia": "alta"
+      }
+    ],
+    "ultima_atualizacao": "2026-08-21T20:28:49.000Z"
+  },
+  "47352182214763@lid_humana": {
+    "userId": "47352182214763@lid_humana",
+    "nome": "Thales Luciano",
+    "apelidos": [],
+    "preferencias": {
+      "assuntos_favoritos": [],
+      "gostos": [
+        "[preferencia] gosta de conversar sobre o dia"
+      ],
+      "nao_gostos": [],
+      "hobbies": [],
+      "estilo_conversa": "casual",
+      "usa_emojis": true,
+      "formal": false
+    },
+    "informacoes_pessoais": {
+      "idade": null,
+      "localizacao": null,
+      "profissao": null,
+      "relacionamento": null,
+      "familia": []
+    },
+    "historico_conversa": {
+      "total_mensagens": 1,
+      "primeira_conversa": "2026-08-20T22:48:05.000Z",
+      "ultima_conversa": "2026-08-20T22:48:05.000Z",
+      "frequencia_interacao": "muito_baixa",
+      "topicos_recentes": []
+    },
+    "padroes_comportamento": {
+      "horarios_ativos": {
+        "19": 1
+      },
+      "dias_semana_ativos": {
+        "quinta-feira": 1
+      },
+      "humor_comum": "neutro",
+      "tipo_mensagens": {
+        "perguntas": 0,
+        "afirmacoes": 0,
+        "emocoes": 0,
+        "comandos": 0
+      }
+    },
+    "relacionamento_nazuna": {
+      "nivel_intimidade": 1,
+      "apelido_nazuna": null,
+      "memorias_especiais": [],
+      "conversas_marcantes": [],
+      "sentimento": "neutro"
+    },
+    "notas_importantes": [],
+    "ultima_atualizacao": "2026-08-20T22:48:18.000Z"
+  },
+  "275368120467551@lid_humana": {
+    "userId": "275368120467551@lid_humana",
+    "nome": "🅱️ROCASITO💯",
+    "apelidos": [],
+    "preferencias": {
+      "assuntos_favoritos": [],
+      "gostos": [
+        "[preferencia] gosta de expressar alegria"
+      ],
+      "nao_gostos": [],
+      "hobbies": [],
+      "estilo_conversa": "casual",
+      "usa_emojis": true,
+      "formal": false
+    },
+    "informacoes_pessoais": {
+      "idade": null,
+      "localizacao": null,
+      "profissao": null,
+      "relacionamento": null,
+      "familia": []
+    },
+    "historico_conversa": {
+      "total_mensagens": 1,
+      "primeira_conversa": "2026-08-20T22:48:47.000Z",
+      "ultima_conversa": "2026-08-20T22:48:47.000Z",
+      "frequencia_interacao": "muito_baixa",
+      "topicos_recentes": []
+    },
+    "padroes_comportamento": {
+      "horarios_ativos": {
+        "19": 1
+      },
+      "dias_semana_ativos": {
+        "quinta-feira": 1
+      },
+      "humor_comum": "neutro",
+      "tipo_mensagens": {
+        "perguntas": 0,
+        "afirmacoes": 0,
+        "emocoes": 0,
+        "comandos": 0
+      }
+    },
+    "relacionamento_nazuna": {
+      "nivel_intimidade": 1,
+      "apelido_nazuna": null,
+      "memorias_especiais": [],
+      "conversas_marcantes": [],
+      "sentimento": "neutro"
+    },
+    "notas_importantes": [],
+    "ultima_atualizacao": "2026-08-20T22:49:06.000Z"
+  },
+  "187990718550060@lid_nazuna": {
+    "userId": "187990718550060@lid_nazuna",
+    "nome": "daniel",
+    "apelidos": [],
+    "preferencias": {
+      "assuntos_favoritos": [],
+      "gostos": [],
+      "nao_gostos": [],
+      "hobbies": [],
+      "estilo_conversa": "casual",
+      "usa_emojis": true,
+      "formal": false
+    },
+    "informacoes_pessoais": {
+      "idade": null,
+      "localizacao": null,
+      "profissao": null,
+      "relacionamento": null,
+      "familia": []
+    },
+    "historico_conversa": {
+      "total_mensagens": 1,
+      "primeira_conversa": "2026-08-21T21:51:46.000Z",
+      "ultima_conversa": "2026-08-21T21:51:46.000Z",
+      "frequencia_interacao": "muito_baixa",
+      "topicos_recentes": []
+    },
+    "padroes_comportamento": {
+      "horarios_ativos": {
+        "18": 1
+      },
+      "dias_semana_ativos": {
+        "sexta-feira": 1
+      },
+      "humor_comum": "neutro",
+      "tipo_mensagens": {
+        "perguntas": 0,
+        "afirmacoes": 0,
+        "emocoes": 0,
+        "comandos": 0
+      }
+    },
+    "relacionamento_nazuna": {
+      "nivel_intimidade": 1,
+      "apelido_nazuna": null,
+      "memorias_especiais": [],
+      "conversas_marcantes": [],
+      "sentimento": "neutro"
+    },
+    "notas_importantes": [],
+    "ultima_atualizacao": "2026-08-21T21:51:46.000Z"
+  },
+  "195825292570808@lid_nazuna": {
+    "userId": "195825292570808@lid_nazuna",
+    "nome": "Vau",
+    "apelidos": [],
+    "preferencias": {
+      "assuntos_favoritos": [],
+      "gostos": [],
+      "nao_gostos": [],
+      "hobbies": [],
+      "estilo_conversa": "casual",
+      "usa_emojis": true,
+      "formal": false
+    },
+    "informacoes_pessoais": {
+      "idade": null,
+      "localizacao": null,
+      "profissao": null,
+      "relacionamento": null,
+      "familia": []
+    },
+    "historico_conversa": {
+      "total_mensagens": 1,
+      "primeira_conversa": "2026-08-21T22:36:38.000Z",
+      "ultima_conversa": "2026-08-21T22:36:38.000Z",
+      "frequencia_interacao": "muito_baixa",
+      "topicos_recentes": []
+    },
+    "padroes_comportamento": {
+      "horarios_ativos": {
+        "19": 1
+      },
+      "dias_semana_ativos": {
+        "sexta-feira": 1
+      },
+      "humor_comum": "neutro",
+      "tipo_mensagens": {
+        "perguntas": 0,
+        "afirmacoes": 0,
+        "emocoes": 0,
+        "comandos": 0
+      }
+    },
+    "relacionamento_nazuna": {
+      "nivel_intimidade": 1,
+      "apelido_nazuna": null,
+      "memorias_especiais": [],
+      "conversas_marcantes": [],
+      "sentimento": "neutro"
+    },
+    "notas_importantes": [],
+    "ultima_atualizacao": "2026-08-21T22:36:38.000Z"
+  },
+  "259614012608721@lid_nazuna": {
+    "userId": "259614012608721@lid_nazuna",
+    "nome": "🥷💯",
+    "apelidos": [],
+    "preferencias": {
+      "assuntos_favoritos": [],
+      "gostos": [],
+      "nao_gostos": [],
+      "hobbies": [],
+      "estilo_conversa": "casual",
+      "usa_emojis": true,
+      "formal": false
+    },
+    "informacoes_pessoais": {
+      "idade": null,
+      "localizacao": null,
+      "profissao": null,
+      "relacionamento": null,
+      "familia": []
+    },
+    "historico_conversa": {
+      "total_mensagens": 1,
+      "primeira_conversa": "2026-08-21T22:37:25.000Z",
+      "ultima_conversa": "2026-08-21T22:37:25.000Z",
+      "frequencia_interacao": "muito_baixa",
+      "topicos_recentes": []
+    },
+    "padroes_comportamento": {
+      "horarios_ativos": {
+        "19": 1
+      },
+      "dias_semana_ativos": {
+        "sexta-feira": 1
+      },
+      "humor_comum": "neutro",
+      "tipo_mensagens": {
+        "perguntas": 0,
+        "afirmacoes": 0,
+        "emocoes": 0,
+        "comandos": 0
+      }
+    },
+    "relacionamento_nazuna": {
+      "nivel_intimidade": 1,
+      "apelido_nazuna": null,
+      "memorias_especiais": [],
+      "conversas_marcantes": [],
+      "sentimento": "neutro"
+    },
+    "notas_importantes": [],
+    "ultima_atualizacao": "2026-08-21T22:37:25.000Z"
+  },
+  "207142766293074@lid_nazuna": {
+    "userId": "207142766293074@lid_nazuna",
+    "nome": "𝒴𝘶𝘬𝘪",
+    "apelidos": [],
+    "preferencias": {
+      "assuntos_favoritos": [],
+      "gostos": [],
+      "nao_gostos": [],
+      "hobbies": [],
+      "estilo_conversa": "casual",
+      "usa_emojis": true,
+      "formal": false
+    },
+    "informacoes_pessoais": {
+      "idade": null,
+      "localizacao": null,
+      "profissao": null,
+      "relacionamento": null,
+      "familia": []
+    },
+    "historico_conversa": {
+      "total_mensagens": 1,
+      "primeira_conversa": "2026-08-22T00:08:44.000Z",
+      "ultima_conversa": "2026-08-22T00:08:44.000Z",
+      "frequencia_interacao": "muito_baixa",
+      "topicos_recentes": []
+    },
+    "padroes_comportamento": {
+      "horarios_ativos": {
+        "21": 1
+      },
+      "dias_semana_ativos": {
+        "sexta-feira": 1
+      },
+      "humor_comum": "neutro",
+      "tipo_mensagens": {
+        "perguntas": 0,
+        "afirmacoes": 0,
+        "emocoes": 0,
+        "comandos": 0
+      }
+    },
+    "relacionamento_nazuna": {
+      "nivel_intimidade": 1,
+      "apelido_nazuna": null,
+      "memorias_especiais": [],
+      "conversas_marcantes": [],
+      "sentimento": "neutro"
+    },
+    "notas_importantes": [],
+    "ultima_atualizacao": "2026-08-22T00:08:44.000Z"
+  },
+  "174848185790692@lid_nazuna": {
+    "userId": "174848185790692@lid_nazuna",
+    "nome": "Emilso",
+    "apelidos": [],
+    "preferencias": {
+      "assuntos_favoritos": [],
+      "gostos": [],
+      "nao_gostos": [],
+      "hobbies": [],
+      "estilo_conversa": "casual",
+      "usa_emojis": true,
+      "formal": false
+    },
+    "informacoes_pessoais": {
+      "idade": null,
+      "localizacao": null,
+      "profissao": null,
+      "relacionamento": null,
+      "familia": []
+    },
+    "historico_conversa": {
+      "total_mensagens": 1,
+      "primeira_conversa": "2026-08-22T00:49:37.000Z",
+      "ultima_conversa": "2026-08-22T00:49:37.000Z",
+      "frequencia_interacao": "muito_baixa",
+      "topicos_recentes": []
+    },
+    "padroes_comportamento": {
+      "horarios_ativos": {
+        "21": 1
+      },
+      "dias_semana_ativos": {
+        "sexta-feira": 1
+      },
+      "humor_comum": "neutro",
+      "tipo_mensagens": {
+        "perguntas": 0,
+        "afirmacoes": 0,
+        "emocoes": 0,
+        "comandos": 0
+      }
+    },
+    "relacionamento_nazuna": {
+      "nivel_intimidade": 1,
+      "apelido_nazuna": null,
+      "memorias_especiais": [],
+      "conversas_marcantes": [],
+      "sentimento": "neutro"
+    },
+    "notas_importantes": [],
+    "ultima_atualizacao": "2026-08-22T00:49:37.000Z"
+  }
+}

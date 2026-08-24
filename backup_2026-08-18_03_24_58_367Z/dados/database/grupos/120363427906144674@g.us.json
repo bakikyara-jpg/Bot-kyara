@@ -1,0 +1,33 @@
+{
+  "mark": {},
+  "createdAt": "2026-08-18T02:47:24.212Z",
+  "groupName": "Testes-bots",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "28145558278209@lid",
+      "msg": 6,
+      "cmd": 38,
+      "figu": 0,
+      "pushname": "........",
+      "firstSeen": "2026-08-18T02:47:24.682Z",
+      "lastActivity": "2026-08-18T03:25:32.245Z"
+    }
+  ],
+  "bemvindo": true,
+  "textbv": "bem-vindo(a) #numerodele# ao grupo #nomedogp#! Agora somos #membros# membros. Leiam a discrição",
+  "welcome": {
+    "photo": true,
+    "photoType": "custom",
+    "image": "https://raw.githubusercontent.com/uploadsnew/uploads/main/fotos/1787022445786_ap191g.jpg"
+  }
+}

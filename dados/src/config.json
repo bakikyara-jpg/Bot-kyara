@@ -1,0 +1,21 @@
+{
+  "nomedono": "REI BAKI",
+  "numerodono": "5584987480834",
+  "nomebot": "꧁𓊈 K̷ʏ̷ᴀ̷ʀ̷ᴀ̷ 𓊉꧂",
+  "prefixo": "!",
+  "site_vex": "https://vexapi.com.br",
+  "apikey_vex": "SUAKEY",
+  "lidowner": "28145558278209@lid",
+  "github_ofc": "https://github.com/DevTokyoVx/nazuna",
+  "autor": "BAKI_BK",
+  "repositorio": "nazuna",
+  "WA_WEB_VERSION": {
+    "aviso": "Não mexa aqui, pode afetar o funcionamento do BOT.",
+    "value": [
+      2,
+      3000,
+      1034740716
+    ]
+  },
+  "globalMode": true
+}

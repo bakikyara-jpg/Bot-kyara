@@ -1,0 +1,55 @@
+{
+  "mark": {},
+  "createdAt": "2026-08-18T02:47:24.212Z",
+  "groupName": "Testes-bots",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "28145558278209@lid",
+      "msg": 601,
+      "cmd": 235,
+      "figu": 3,
+      "pushname": "_baki_bk",
+      "firstSeen": "2026-08-18T02:47:24.682Z",
+      "lastActivity": "2026-08-23T20:22:56.630Z"
+    },
+    {
+      "id": "87244476010549@lid",
+      "msg": 242,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "꧁𓊈𒆜༒ K̷ʏ̷ᴀ̷ʀ̷ᴀ̷ ༒𒆜𓊉꧂",
+      "firstSeen": "2026-08-19T05:43:30.200Z",
+      "lastActivity": "2026-08-23T16:17:04.284Z"
+    },
+    {
+      "id": "867051314767696@bot",
+      "msg": 2,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Meta AI",
+      "firstSeen": "2026-08-21T18:33:35.053Z",
+      "lastActivity": "2026-08-21T18:49:59.408Z"
+    }
+  ],
+  "bemvindo": false,
+  "textbv": "bem-vindo(a) #numerodele# ao grupo #nomedogp#! Agora somos #membros# membros. Leiam a discrição",
+  "welcome": {
+    "photo": true,
+    "photoType": "custom",
+    "image": "https://raw.githubusercontent.com/uploadsnew/uploads/main/fotos/1787022445786_ap191g.jpg"
+  },
+  "assistente": true,
+  "modobrincadeira": true,
+  "assistentePersonality": "pro",
+  "antilinkhard": true
+}

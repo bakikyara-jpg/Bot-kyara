@@ -1,0 +1,64 @@
+{
+  "mark": {},
+  "createdAt": "2026-08-18T03:27:18.786Z",
+  "groupName": "Show 😃👍",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "179392948998174@lid",
+      "msg": 27,
+      "cmd": 64,
+      "figu": 12,
+      "pushname": "Allan Diego",
+      "firstSeen": "2026-08-18T03:27:18.942Z",
+      "lastActivity": "2026-08-23T19:32:15.492Z"
+    },
+    {
+      "id": "28145558278209@lid",
+      "msg": 64,
+      "cmd": 14,
+      "figu": 33,
+      "pushname": "_baki_bk",
+      "firstSeen": "2026-08-18T03:28:37.799Z",
+      "lastActivity": "2026-08-23T15:54:16.199Z"
+    },
+    {
+      "id": "215255674261734@lid",
+      "msg": 24,
+      "cmd": 0,
+      "figu": 18,
+      "pushname": "Isaac Melo",
+      "firstSeen": "2026-08-19T15:19:22.931Z",
+      "lastActivity": "2026-08-23T15:54:03.471Z"
+    },
+    {
+      "id": "87244476010549@lid",
+      "msg": 7,
+      "cmd": 0,
+      "figu": 2,
+      "pushname": "꧁𓊈𒆜༒ K̷ʏ̷ᴀ̷ʀ̷ᴀ̷ ༒𒆜𓊉꧂",
+      "firstSeen": "2026-08-20T12:01:13.708Z",
+      "lastActivity": "2026-08-22T04:54:24.792Z"
+    },
+    {
+      "id": "867051314767696@bot",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Meta AI",
+      "firstSeen": "2026-08-22T04:54:42.515Z",
+      "lastActivity": "2026-08-22T04:54:42.516Z"
+    }
+  ],
+  "assistente": true,
+  "assistentePersonality": "humana"
+}

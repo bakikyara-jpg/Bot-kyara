@@ -1,0 +1,35 @@
+{
+  "mark": {},
+  "createdAt": "2026-08-18T15:49:17.938Z",
+  "groupName": "𝐃𝐢𝐯𝐮𝐥𝐠𝐚𝐜̧𝐚̃𝐨 𝟐𝟒 𝐇𝐨𝐫𝐚𝐬",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "254021696786675@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Cauê 🥷",
+      "firstSeen": "2026-08-18T15:49:18.045Z",
+      "lastActivity": "2026-08-18T15:49:18.045Z"
+    },
+    {
+      "id": "159399859454166@lid",
+      "msg": 3,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Igor",
+      "firstSeen": "2026-08-22T12:15:27.511Z",
+      "lastActivity": "2026-08-23T19:40:47.816Z"
+    }
+  ]
+}

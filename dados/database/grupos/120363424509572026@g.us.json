@@ -1,0 +1,171 @@
+{
+  "mark": {},
+  "createdAt": "2026-08-19T00:40:47.410Z",
+  "groupName": "✟ 𝐉𝐮𝐬𝐭𝐢𝐜𝐞𝐢𝐫𝐨𝐬 ✟",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "28145558278209@lid",
+      "msg": 100,
+      "cmd": 36,
+      "figu": 5,
+      "pushname": "........",
+      "firstSeen": "2026-08-19T00:40:47.598Z",
+      "lastActivity": "2026-08-22T12:46:55.354Z"
+    },
+    {
+      "id": "102212252512380@lid",
+      "msg": 51,
+      "cmd": 0,
+      "figu": 35,
+      "pushname": "♤Cid Kagenou♤",
+      "firstSeen": "2026-08-19T00:40:58.617Z",
+      "lastActivity": "2026-08-23T08:12:30.946Z"
+    },
+    {
+      "id": "273821428899949@lid",
+      "msg": 130,
+      "cmd": 42,
+      "figu": 36,
+      "pushname": "Ryan Machado Pereira",
+      "firstSeen": "2026-08-19T00:41:34.897Z",
+      "lastActivity": "2026-08-23T11:06:42.293Z"
+    },
+    {
+      "id": "36391979348131@lid",
+      "msg": 4,
+      "cmd": 0,
+      "figu": 3,
+      "pushname": "João Vitor 🤎",
+      "firstSeen": "2026-08-19T02:01:39.404Z",
+      "lastActivity": "2026-08-19T18:22:32.592Z"
+    },
+    {
+      "id": "56629949104184@lid",
+      "msg": 12,
+      "cmd": 0,
+      "figu": 4,
+      "pushname": "príncipe vegeta",
+      "firstSeen": "2026-08-19T03:49:58.038Z",
+      "lastActivity": "2026-08-22T12:10:40.450Z"
+    },
+    {
+      "id": "203864968060938@lid",
+      "msg": 8,
+      "cmd": 0,
+      "figu": 9,
+      "pushname": "HEITOR",
+      "firstSeen": "2026-08-19T04:04:38.333Z",
+      "lastActivity": "2026-08-20T03:45:16.130Z"
+    },
+    {
+      "id": "29502767915146@lid",
+      "msg": 17,
+      "cmd": 0,
+      "figu": 9,
+      "pushname": "Akatsuki pain",
+      "firstSeen": "2026-08-19T06:38:39.482Z",
+      "lastActivity": "2026-08-23T08:16:21.428Z"
+    },
+    {
+      "id": "240772091797591@lid",
+      "msg": 3,
+      "cmd": 0,
+      "figu": 4,
+      "pushname": "𝐑𝐞𝐢𝐬 ── ⋆⋅𖤓⋅⋆ ──",
+      "firstSeen": "2026-08-19T06:38:49.691Z",
+      "lastActivity": "2026-08-20T05:38:11.970Z"
+    },
+    {
+      "id": "116420121784497@lid",
+      "msg": 6,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Tati",
+      "firstSeen": "2026-08-19T18:09:58.748Z",
+      "lastActivity": "2026-08-19T18:16:27.672Z"
+    },
+    {
+      "id": "87244476010549@lid",
+      "msg": 38,
+      "cmd": 1,
+      "figu": 8,
+      "pushname": "꧁𓊈𒆜༒ K̷ʏ̷ᴀ̷ʀ̷ᴀ̷ ༒𒆜𓊉꧂",
+      "firstSeen": "2026-08-19T18:45:11.557Z",
+      "lastActivity": "2026-08-22T04:29:53.951Z"
+    },
+    {
+      "id": "234565864030320@lid",
+      "msg": 8,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Danylo",
+      "firstSeen": "2026-08-19T19:13:23.629Z",
+      "lastActivity": "2026-08-19T23:56:01.856Z"
+    },
+    {
+      "id": "245500381012123@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Son Joyka🧧",
+      "firstSeen": "2026-08-20T00:51:58.469Z",
+      "lastActivity": "2026-08-20T00:51:58.477Z"
+    },
+    {
+      "id": "235485121245285@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Josafá",
+      "firstSeen": "2026-08-20T02:06:38.787Z",
+      "lastActivity": "2026-08-20T02:06:38.787Z"
+    },
+    {
+      "id": "122914179436557@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Usuário Desconhecido",
+      "firstSeen": "2026-08-20T20:38:34.840Z",
+      "lastActivity": "2026-08-20T20:38:34.840Z"
+    },
+    {
+      "id": "207142766293074@lid",
+      "msg": 7,
+      "cmd": 0,
+      "figu": 1,
+      "pushname": "𝒴𝘶𝘬𝘪",
+      "firstSeen": "2026-08-22T00:08:44.288Z",
+      "lastActivity": "2026-08-22T11:52:14.314Z"
+    },
+    {
+      "id": "867051314767696@bot",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Meta AI",
+      "firstSeen": "2026-08-22T04:28:13.186Z",
+      "lastActivity": "2026-08-22T04:28:13.186Z"
+    }
+  ],
+  "assistente": true,
+  "bemvindo": true,
+  "textbv": "Bem-vindo(a) #numerodele# ao grupo #nomedogp#! Agora somos #membros# membros.",
+  "welcome": {
+    "photo": true,
+    "photoType": "custom",
+    "image": "https://raw.githubusercontent.com/uploadsnew/uploads/main/fotos/1787104125272_jzbq0u.jpg"
+  },
+  "modobrincadeira": true,
+  "assistentePersonality": "nazuna"
+}

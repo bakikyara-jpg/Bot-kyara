@@ -1,0 +1,62 @@
+{
+  "mark": {},
+  "createdAt": "2026-08-18T02:47:23.276Z",
+  "groupName": "「🤪 DIRETO PRO HOSPÍCIO 😜」",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "145732636008486@lid",
+      "msg": 2,
+      "cmd": 0,
+      "figu": 3,
+      "pushname": "A Insuportável 🖕",
+      "firstSeen": "2026-08-18T02:47:23.452Z",
+      "lastActivity": "2026-08-18T03:21:30.910Z"
+    },
+    {
+      "id": "12181299056738@lid",
+      "msg": 2,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "𝐷𝑐.𝐷𝑢𝑠𝑡ᵇᵒᵗ",
+      "firstSeen": "2026-08-18T02:47:24.040Z",
+      "lastActivity": "2026-08-18T03:00:04.099Z"
+    },
+    {
+      "id": "158102561280252@lid",
+      "msg": 4,
+      "cmd": 0,
+      "figu": 5,
+      "pushname": "Terezinha 🙃",
+      "firstSeen": "2026-08-18T02:47:54.833Z",
+      "lastActivity": "2026-08-18T03:22:50.119Z"
+    },
+    {
+      "id": "257836147806237@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 1,
+      "pushname": "Franklin Martins",
+      "firstSeen": "2026-08-18T02:48:36.733Z",
+      "lastActivity": "2026-08-18T02:48:36.733Z"
+    },
+    {
+      "id": "28145558278209@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "........",
+      "firstSeen": "2026-08-18T03:13:30.838Z",
+      "lastActivity": "2026-08-18T03:13:30.838Z"
+    }
+  ]
+}

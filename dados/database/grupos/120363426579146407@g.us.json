@@ -1,0 +1,74 @@
+{
+  "mark": {},
+  "createdAt": "2026-08-21T21:47:42.695Z",
+  "groupName": "👾Modo Aleatório Ativado🔛",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "149155909496891@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Gaby_Coruja",
+      "firstSeen": "2026-08-21T21:47:42.731Z",
+      "lastActivity": "2026-08-21T21:47:42.731Z"
+    },
+    {
+      "id": "129635165696070@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Jota",
+      "firstSeen": "2026-08-21T21:47:43.855Z",
+      "lastActivity": "2026-08-21T21:47:43.855Z"
+    },
+    {
+      "id": "28145558278209@lid",
+      "msg": 0,
+      "cmd": 3,
+      "figu": 0,
+      "pushname": "........",
+      "firstSeen": "2026-08-21T21:48:01.217Z",
+      "lastActivity": "2026-08-21T21:48:36.596Z"
+    },
+    {
+      "id": "218257856413842@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "03 Xdz",
+      "firstSeen": "2026-08-21T21:48:08.901Z",
+      "lastActivity": "2026-08-21T21:48:08.901Z"
+    },
+    {
+      "id": "2951196205163@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "˚ ༘♡ ·˚꒰ᴀᴘᴇɴᴀs-ʙᴀᴛᴀᴛᴀೀ܀",
+      "firstSeen": "2026-08-21T21:48:11.581Z",
+      "lastActivity": "2026-08-21T21:48:11.581Z"
+    },
+    {
+      "id": "87244476010549@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "꧁𓊈𒆜༒ K̷ʏ̷ᴀ̷ʀ̷ᴀ̷ ༒𒆜𓊉꧂",
+      "firstSeen": "2026-08-21T21:49:13.797Z",
+      "lastActivity": "2026-08-21T21:49:13.800Z"
+    }
+  ],
+  "exit": {
+    "enabled": true
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "mark": {},
+  "createdAt": "2026-08-21T23:59:17.050Z",
+  "groupName": "Adms👨🏻‍💻",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "28145558278209@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 3,
+      "pushname": "........",
+      "firstSeen": "2026-08-21T23:59:17.108Z",
+      "lastActivity": "2026-08-22T00:11:16.618Z"
+    },
+    {
+      "id": "79164954693740@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 2,
+      "pushname": "Nina",
+      "firstSeen": "2026-08-22T00:00:08.316Z",
+      "lastActivity": "2026-08-22T00:00:39.486Z"
+    },
+    {
+      "id": "65292143169648@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 1,
+      "pushname": "[  Jａａｊ]",
+      "firstSeen": "2026-08-22T00:08:00.874Z",
+      "lastActivity": "2026-08-22T00:08:00.878Z"
+    }
+  ]
+}

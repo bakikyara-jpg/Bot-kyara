@@ -1,0 +1,352 @@
+import { execFile } from 'child_process';
+import { promisify } from 'util';
+import fs from 'fs';
+import os from 'os';
+import path from 'path';
+
+const execFileAsync = promisify(execFile);
+
+function cleanName(name = 'audio') {
+  return String(name)
+    .replace(/[<>:"/\\|?*\x00-\x1F]/g, '')
+    .replace(/\s+/g, ' ')
+    .trim()
+    .slice(0, 120) || 'audio';
+}
+
+function isYouTubeUrl(value = '') {
+  return /(?:youtube\.com|youtu\.be)/i.test(value);
+}
+
+async function runYtDlp(args) {
+  try {
+    const { stdout, stderr } = await execFileAsync('yt-dlp', args, {
+      maxBuffer: 20 * 1024 * 1024,
+      timeout: 10 * 60 * 1000
+    });
+
+    return {
+      ok: true,
+      stdout: stdout || '',
+      stderr: stderr || ''
+    };
+  } catch (error) {
+    return {
+      ok: false,
+      error
+    };
+  }
+}
+
+async function search(query) {
+  if (!query || !String(query).trim()) {
+    return {
+      ok: false,
+      msg: 'Digite o nome da música.'
+    };
+  }
+
+  const input = String(query).trim();
+  const isUrl = isYouTubeUrl(input);
+
+  try {
+    const args = [
+      isUrl ? input : `ytsearch1:${input}`,
+      '--dump-single-json',
+      '--skip-download',
+      '--no-warnings',
+      '--no-playlist',
+      '--extractor-args',
+      'youtube:player_client=web_music'
+    ];
+
+    const result = await runYtDlp(args);
+
+    if (!result.ok) {
+      return {
+        ok: false,
+        msg:
+          result.error?.stderr?.trim() ||
+          result.error?.message ||
+          'Não foi possível pesquisar no YouTube.'
+      };
+    }
+
+    const parsed = JSON.parse(result.stdout);
+
+    const video = Array.isArray(parsed?.entries)
+      ? parsed.entries[0]
+      : parsed;
+
+    if (!video || !video.id) {
+      return {
+        ok: false,
+        msg: 'Nenhum vídeo encontrado.'
+      };
+    }
+
+    const seconds = Number(video.duration) || 0;
+
+    let timestamp = video.duration_string || '';
+
+    if (!timestamp && seconds > 0) {
+      const total = Math.floor(seconds);
+      const hours = Math.floor(total / 3600);
+      const minutes = Math.floor((total % 3600) / 60);
+      const secs = total % 60;
+
+      timestamp = hours > 0
+        ? `${hours}:${String(minutes).padStart(2, '0')}:${String(secs).padStart(2, '0')}`
+        : `${minutes}:${String(secs).padStart(2, '0')}`;
+    }
+
+    const url =
+      video.webpage_url ||
+      video.original_url ||
+      `https://www.youtube.com/watch?v=${video.id}`;
+
+    const thumbnail =
+      video.thumbnail ||
+      (video.id
+        ? `https://i.ytimg.com/vi/${video.id}/hqdefault.jpg`
+        : '');
+
+    return {
+      ok: true,
+      data: {
+        videoId: video.id || '',
+        url,
+        title: video.title || 'Sem título',
+        description: video.description || '',
+        thumbnail,
+        seconds,
+        timestamp: timestamp || 'Desconhecida',
+        views: Number(video.view_count) || 0,
+        ago: video.upload_date || '',
+        author:
+          video.uploader ||
+          video.channel ||
+          video.uploader_id ||
+          'Desconhecido'
+      }
+    };
+  } catch (error) {
+    return {
+      ok: false,
+      msg: error.message || 'Erro ao pesquisar no YouTube.'
+    };
+  }
+}
+
+async function mp3(url, bitrate = 128) {
+  if (!url || !isYouTubeUrl(url)) {
+    return {
+      ok: false,
+      msg: 'URL do YouTube inválida.'
+    };
+  }
+
+  const tempDir = fs.mkdtempSync(
+    path.join(os.tmpdir(), 'nazuna-play-')
+  );
+
+  const outputTemplate = path.join(
+    tempDir,
+    '%(title)s.%(ext)s'
+  );
+
+  try {
+    /*
+     * web_music está funcionando no Termux
+     * sem necessidade de fornecer PO Token manual.
+     *
+     * Usamos formato 18 porque o teste comprovou
+     * que esse formato consegue baixar.
+     */
+    const result = await runYtDlp([
+      url,
+      '--no-playlist',
+      '--no-warnings',
+      '--extractor-args',
+      'youtube:player_client=web_music',
+      '-f',
+      '18',
+      '-o',
+      outputTemplate
+    ]);
+
+    if (!result.ok) {
+      throw new Error(
+        result.error?.stderr?.trim() ||
+        result.error?.message ||
+        'Falha no yt-dlp.'
+      );
+    }
+
+    const files = fs.readdirSync(tempDir);
+
+    const videoFile = files.find(file =>
+      /\.(mp4|m4a|webm)$/i.test(file)
+    );
+
+    if (!videoFile) {
+      throw new Error(
+        'O yt-dlp terminou, mas nenhum arquivo de mídia foi encontrado.'
+      );
+    }
+
+    const inputFile = path.join(tempDir, videoFile);
+
+    const title = path
+      .basename(videoFile, path.extname(videoFile))
+      .replace(/_/g, ' ')
+      .trim();
+
+    const outputMp3 = path.join(
+      tempDir,
+      `${cleanName(title)}.mp3`
+    );
+
+    await execFileAsync(
+      'ffmpeg',
+      [
+        '-y',
+        '-i',
+        inputFile,
+        '-vn',
+        '-codec:a',
+        'libmp3lame',
+        '-b:a',
+        `${bitrate}k`,
+        outputMp3
+      ],
+      {
+        maxBuffer: 20 * 1024 * 1024,
+        timeout: 10 * 60 * 1000
+      }
+    );
+
+    const buffer = fs.readFileSync(outputMp3);
+
+    if (!buffer.length) {
+      throw new Error('O arquivo MP3 ficou vazio.');
+    }
+
+    return {
+      ok: true,
+      buffer,
+      title: title || 'YouTube Audio',
+      thumbnail: '',
+      filename: `${cleanName(title || 'audio')}.mp3`
+    };
+
+  } catch (error) {
+    return {
+      ok: false,
+      msg: error.message || 'Erro ao baixar o áudio.'
+    };
+
+  } finally {
+    try {
+      fs.rmSync(tempDir, {
+        recursive: true,
+        force: true
+      });
+    } catch {}
+  }
+}
+
+async function mp4(url, quality = 360) {
+  if (!url || !isYouTubeUrl(url)) {
+    return {
+      ok: false,
+      msg: 'URL do YouTube inválida.'
+    };
+  }
+
+  const tempDir = fs.mkdtempSync(
+    path.join(os.tmpdir(), 'nazuna-video-')
+  );
+
+  const outputTemplate = path.join(
+    tempDir,
+    '%(title)s.%(ext)s'
+  );
+
+  try {
+    const result = await runYtDlp([
+      url,
+      '--no-playlist',
+      '--no-warnings',
+      '--extractor-args',
+      'youtube:player_client=web_music',
+      '-f',
+      `18`,
+      '-o',
+      outputTemplate
+    ]);
+
+    if (!result.ok) {
+      throw new Error(
+        result.error?.stderr?.trim() ||
+        result.error?.message ||
+        'Falha no yt-dlp.'
+      );
+    }
+
+    const files = fs.readdirSync(tempDir);
+
+    const videoFile = files.find(file =>
+      /\.mp4$/i.test(file)
+    );
+
+    if (!videoFile) {
+      throw new Error(
+        'O yt-dlp terminou, mas nenhum MP4 foi encontrado.'
+      );
+    }
+
+    const filePath = path.join(tempDir, videoFile);
+    const buffer = fs.readFileSync(filePath);
+
+    if (!buffer.length) {
+      throw new Error('O arquivo MP4 ficou vazio.');
+    }
+
+    const title = path.basename(
+      videoFile,
+      path.extname(videoFile)
+    );
+
+    return {
+      ok: true,
+      buffer,
+      title,
+      thumbnail: '',
+      filename: `${cleanName(title)}.mp4`
+    };
+
+  } catch (error) {
+    return {
+      ok: false,
+      msg: error.message || 'Erro ao baixar o vídeo.'
+    };
+
+  } finally {
+    try {
+      fs.rmSync(tempDir, {
+        recursive: true,
+        force: true
+      });
+    } catch {}
+  }
+}
+
+export {
+  search,
+  mp3,
+  mp4
+};
+
+export const ytmp3 = mp3;
+export const ytmp4 = mp4;
